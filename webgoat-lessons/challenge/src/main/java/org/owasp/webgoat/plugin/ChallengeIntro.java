@@ -9,6 +9,7 @@ import java.util.List;
 /**
  * @author nbaars
  * @since 3/21/17.
+  add comment to trigger incremental scan
  */
 public class ChallengeIntro extends NewLesson {
 
